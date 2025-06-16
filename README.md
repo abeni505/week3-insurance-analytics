@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # week3-insurance-analytics
-=======
+
 # ACIS Insurance Risk Analytics
 
 # 🚗 AlphaCare Insurance Analytics – Week 3 Challenge (10 Academy)
@@ -131,4 +131,4 @@ week3-insurance-analytics/
 
 ## Author
 Abenezer M. Woldesenbet
->>>>>>> 194f439 (Initialize AlphaCare project)
+
