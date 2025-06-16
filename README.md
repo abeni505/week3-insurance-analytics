@@ -38,20 +38,6 @@ This project is part of the 10 Academy Week 3 challenge, focused on insurance an
 - Local remote storage setup
 - Versioned data tracked using Git and DVC
 
-### 🔬 Task 3: Hypothesis Testing
-- Statistical tests (t-tests, chi-squared)
-- Null hypotheses:
-  - No risk differences across provinces or zipcodes
-  - No margin difference between regions
-  - No gender-based claim differences
-
-### 🤖 Task 4: Machine Learning Modeling
-- Regression models for claim severity
-- Premium prediction models
-- Risk-based pricing framework
-- Feature importance analysis using SHAP
-
----
 
 ## 📦 Dataset
 
