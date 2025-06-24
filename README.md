@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # week3-insurance-analytics
-=======
+
 # ACIS Insurance Risk Analytics
 
 # 🚗 AlphaCare Insurance Analytics – Week 3 Challenge (10 Academy)
@@ -38,6 +38,7 @@ This project is part of the 10 Academy Week 3 challenge, focused on insurance an
 - Local remote storage setup
 - Versioned data tracked using Git and DVC
 
+
 ### ✅  🔬 Task 3: Hypothesis Testing
 - Statistical tests (t-tests, chi-squared)
 - Null hypotheses:
@@ -52,6 +53,8 @@ This project is part of the 10 Academy Week 3 challenge, focused on insurance an
 - Feature importance analysis using SHAP
 
 ---
+=======
+
 
 ## 📦 Dataset
 
@@ -131,6 +134,9 @@ week3-insurance-analytics/
 
 ## Author
 Abenezer M. Woldesenbet
+<<<<<<< HEAD
 >>>>>>> 194f439 (Initialize AlphaCare project)
 
+=======
+>>>>>>> a70060bc569c43398ff16d8cf513169a1349d01d
 
