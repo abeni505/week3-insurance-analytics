@@ -21,6 +21,7 @@ __pycache__/
 # Ignore the virtual environment folder
 venv/
 .venv/
+insurance_analytics_env/
 
 # ...but DO NOT ignore the .dvc files and any potential .gitignore file inside.
 Data/*
