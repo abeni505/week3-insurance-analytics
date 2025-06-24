@@ -386,11 +386,13 @@ Send2Trash @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/sen
 sentry-sdk @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4dcc1avjs2/croot/sentry-sdk_1732198183579/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 setuptools==75.1.0
+shap==0.48.0
 shellingham @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/shellingham_1699238695807/work
 shortuuid==1.0.13
 shtab==1.7.2
 sip @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/sip_1699238710791/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
+slicer==0.0.8
 smart-open @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/smart_open_1699241638232/work
 smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
 sniffio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1573pknjrg/croot/sniffio_1705431298885/work
@@ -475,6 +477,7 @@ widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnb
 wrapt @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/wrapt_1699240702378/work
 wurlitzer @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/wurlitzer_1699265832005/work
 xarray @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/xarray_1699240726099/work
+xgboost==3.0.2
 xlwings @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_1cs4qhgbiw/croot/xlwings_1725400081092/work
 xyzservices @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/xyzservices_1699243674756/work
 yapf @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_29ra4n2npe/croot/yapf_1708964324475/work
