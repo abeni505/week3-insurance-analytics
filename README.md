@@ -134,9 +134,5 @@ week3-insurance-analytics/
 
 ## Author
 Abenezer M. Woldesenbet
-<<<<<<< HEAD
->>>>>>> 194f439 (Initialize AlphaCare project)
 
-=======
->>>>>>> a70060bc569c43398ff16d8cf513169a1349d01d
 
